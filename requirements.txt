@@ -1,0 +1,13 @@
+numpy
+pandas>=2.0
+scipy
+matplotlib
+seaborn
+scikit-learn>=1.3
+lightgbm
+xgboost
+catboost
+optuna
+shap
+joblib
+notebook

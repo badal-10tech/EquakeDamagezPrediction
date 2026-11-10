@@ -1,0 +1,13 @@
+# Competition data (not redistributable) and generated files
+*.csv
+!model_comparison.csv
+*.joblib
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
